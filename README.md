@@ -1,4 +1,4 @@
-<h1>Coursera Robotics Specialization- Estimation and Learning</h1>
+<h1>Coursera Robotics Specialization- Mobility</h1>
 <h4>Instructor</h4> 
 <h5>Prof. Daniel E. Koditschek</h5>Professor of Electrical and Systems Engineering
 
